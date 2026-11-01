@@ -1,0 +1,5 @@
+configuración,hubs alto orden,regiones en hubs,hubs por pares (EC),Jaccard (todas),Jaccard (top-k),comunes (top-k)
+Inf. interacción · redundancia,140,92,9,0.1,0.64,"Postcentral_L, Postcentral_R, Precentral_L, Precentral_R, Rolandic_Oper_L, Supp_Motor_Area_R, Temporal_Sup_L"
+Inf. interacción · sinergia,219,92,9,0.1,0.0,
+Corr. total · redundancia,80,92,9,0.1,0.0,
+Corr. total · sinergia,150,92,9,0.1,0.0,
